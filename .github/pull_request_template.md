@@ -1,14 +1,10 @@
 ---
 name: Basic template
-about: Basic template for Git workshop issues
-title: ''
-labels: ''
-assignees: ''
-
+about: Basic template for Git workshop pull requests
 ---
 
-### User story
-> Add your user story here
+### Description
+> Add an informative desciption of your branch here
 
 ### Definition of done
 - [ ] Runs without error
