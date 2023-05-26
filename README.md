@@ -16,7 +16,7 @@ One task is intended as a demo by workshop leaders. Three similar tasks are prov
 7. If you have not finished the task, chose a new driver, who should `pull` and `checkout` the branch and continue the task. Swap again after another 5 minutes has passed, until the task is complete.
 8. Head back to GitHub and open the `Pull request` tab. Using the template provided, create a new pull request from the branch you have been working on to the branch you created for your team.
 9. The team member who did the least coding should review the code against the definition of done. If you are happy, approve the pull request and merge the branch. Delete the branch you created for this task.
-10. `checkout` your team branch and return to step 4. Repeat until you run out of tasks or time.
+10. `checkout` your team branch and `pull`. Now return to step 4. Repeat until you run out of tasks or time.
 
 If your team gets stuck at any point, let your workshop leaders know and a facilitator will be there to help!
 
