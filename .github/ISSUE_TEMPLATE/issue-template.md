@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: Basic template
 about: Basic template for Git workshop issues
 title: ''
 labels: ''
