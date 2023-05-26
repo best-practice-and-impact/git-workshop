@@ -1,8 +1,3 @@
----
-name: Basic template
-about: Basic template for Git workshop pull requests
----
-
 ### Description
 > Add an informative desciption of your branch here
 
