@@ -27,12 +27,12 @@ git pull – Pull any changes from the online repo to your local repo
 git checkout branch_name - Checkout a branch
 git checkout –b new_branch_name – Create a new branch and check it out
 git status – Show changes made
-git add – Add a change ready to be committed to memory
-git commit – Commit the change to memory
+git add file_name – Add a change ready to be committed to memory
+git commit -m "commit_message" – Commit the change to memory with a short commit message
 git push – Push the change to the online repo for others to see
 ```
 ```
 cd folder_path - Move to folder
 cd .. - Move up a folder
 ```
-
+> Tip: You can give a longer commit message by pressing `Enter` straight after `git commit`. This will take you to a multicoloured text editor where you can add more information. If you do this by accident and want to escape, press `Esc` and then type `:q!` and `Enter`. This will exit the text editor without saving. You can then commit your changes with a short commit message using `git commit -m "commit_message"`
