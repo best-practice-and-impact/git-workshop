@@ -28,7 +28,7 @@ git checkout branch_name - Checkout a branch
 git checkout –b new_branch_name – Create a new branch and check it out
 git status – Show changes made
 git add file_name – Add a change ready to be committed to memory
-git commit -m "commit_message" – Commit the change to memory with a short commit message
+git commit -m "commit message" – Commit the change to memory with a short commit message
 git push – Push the change to the online repo for others to see
 ```
 ```
